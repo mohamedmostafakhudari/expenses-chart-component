@@ -4,10 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        softRed: "",
-        cyan: "",
-        darkBrown: "",
-        paleOrange: "",
+        softRed: "hsl(10, 79%, 65%)",
+        cyan: "hsl(186, 34%, 60%)",
+        darkBrown: "hsl(25, 47%, 15%)",
+        paleOrange: "hsl(28, 10%, 53%)",
       },
       fontSize: {
         primary: "18px",
@@ -17,5 +17,6 @@ module.exports = {
       },
     },
   },
+
   plugins: [],
 };
