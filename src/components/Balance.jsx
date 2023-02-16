@@ -9,7 +9,7 @@ export default function Balance() {
       </div>
       <div className="">
         <img
-          src="/images/logo.svg"
+          src="./assets/images/logo.svg"
           alt="logo"
           className="max-h-[40px] lg:max-h-[50px]"
         />
